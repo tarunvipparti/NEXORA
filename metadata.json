@@ -1,0 +1,5 @@
+{
+  "name": "SecureScan AI",
+  "description": "A modern cybersecurity-themed QR code malware detection system with AI-powered risk analysis.",
+  "requestFramePermissions": ["camera"]
+}
